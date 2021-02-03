@@ -1,4 +1,5 @@
 require "httparty"
+require "active_support/core_ext/integer/time"
 
 module Cloudflare
   module Rails
